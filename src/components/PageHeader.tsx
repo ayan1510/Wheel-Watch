@@ -58,6 +58,7 @@ const PageHeader: FunctionComponent<PageHeaderType> = ({ className = "" }) => {
                       className="w-[50px] h-[50px] relative object-cover"
                       loading="lazy"
                       alt=""
+                      src="/letter@2x.png"
                     />
                   </div>
                 </div>
